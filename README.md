@@ -105,8 +105,11 @@ jupyter notebook Olist_Ecommerce_Analysis.ipynb
 Olist_e-com_analysis/
 │
 ├── Olist_Ecommerce_Analysis.ipynb   # Main analysis notebook
-├── Olist_Ecommerce_Analysis.html    # HTML Formated
-├── Olist_Ecommerce_Analysis.pdf     # PDF export of the notebook
+│
+├── output/
+│    ├── Olist_Ecommerce_Analysis.html    # HTML Formated
+│    └── Olist_Ecommerce_Analysis.pdf     # PDF export of the notebook
+│ 
 ├── requirements-olist.txt           # Python dependencies
 │
 ├── data/                            # Raw Olist CSV datasets

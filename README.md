@@ -112,6 +112,8 @@ Olist_e-com_analysis/
 │ 
 ├── requirements-olist.txt           # Python dependencies
 │
+├── .gitattributes                   # For consistent line endings
+│
 ├── data/                            # Raw Olist CSV datasets
 │   ├── olist_orders_dataset.csv
 │   ├── olist_order_items_dataset.csv
